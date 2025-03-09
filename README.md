@@ -1,2 +1,3 @@
 # Final-MySQL-Project-Gym-Management-System
-This project offers an efficient SQL database for Gym Management System software, employing normalized tables and SQL queries for robust data management. 
+# Project Overview
+The Gym Management System is a database-driven application designed to manage and streamline operations in a gym or fitness center. This project focuses on storing, retrieving, and managing data related to members, trainers, workout plans, payments, and attendance using SQL
