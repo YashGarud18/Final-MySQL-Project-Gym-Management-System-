@@ -1,8 +1,8 @@
-💪 Gym Management System
+ # 💪 Gym Management System
 
 Welcome to the Gym Management System! This project is designed to handle all the essential operations of a gym, from managing memberships and classes to tracking equipment and promotions.
 
-✨ Features
+## ✨ Features
 
 📅 Membership Management: Track various membership plans and users.
 
@@ -18,7 +18,7 @@ Welcome to the Gym Management System! This project is designed to handle all the
 
 ✅ Payments and Reviews: Process payments and collect user feedback.
 
-🔒 Database Structure
+## 🔒 Database Structure
 
 Here are the key tables in the system:
 
@@ -60,39 +60,39 @@ Nutrition_Plans: Manages nutrition plans.
 
 Goals: Tracks users' fitness goals.
 
-📚 Installation
+## 📚 Installation
 
 Install MySQL and a SQL client.
 
 Clone this repository:
 
-git clone https://github.com/yourusername/gym-management-system.git
+git clone https://github.com/yourusername/gym-management-system.git 
 
 Import the gym_management_system.sql file into your MySQL database.
 
 Configure your connection settings as needed.
 
-⚖️ Usage
+## ⚖️ Usage
 
 Run SQL queries to insert, update, and retrieve data.
 
 Use joins and queries to create reports on memberships, payments, attendance, and more.
 
-🔧 Contributing
+## 🔧 Contributing
 
 Contributions are welcome! Feel free to fork the repo and create pull requests.
 
-💰 License
+## 💰 License
 
 This project is licensed under the MIT License.
 
-🔗 Contact
+## 🔗 Contact
 
-Author: Your Name
+Author: Yash Garud
 
-Email: your.email@example.com
+Email: yashgarud18@gmail.com
 
-GitHub: yourusername
+GitHub: Yashgarud18
 
-Stay fit and keep coding! 💪
+# Stay fit and keep coding! 💪
 
