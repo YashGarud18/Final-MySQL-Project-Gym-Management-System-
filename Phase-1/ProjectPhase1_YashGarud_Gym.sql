@@ -1,5 +1,5 @@
 /*                                                                   Project Phase-1
-													              Gym Management System
+								  Gym Management System
 */
 
 -- ----Create Database 
